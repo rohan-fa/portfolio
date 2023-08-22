@@ -1,5 +1,5 @@
 import Button from "@/components/Button";
-import Logo from "@/components/Logo";
+// import Logo from "@/components/Logo";
 import Link from "next/link";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { CgClose } from "react-icons/cg";
@@ -62,8 +62,8 @@ function Navbar() {
             ease: "easeInOut",
           }}
         >
-          <Link href="kishansheth.com">
-            <Logo />
+          <Link href="">
+            {/* <Logo /> */}
           </Link>
         </motion.div>
         <motion.div

@@ -51,7 +51,7 @@ function Hero() {
           delay: 1.35,
         }}
       >
-        I&apos;m a software engineer with expertise in creating top-notch
+        I&apos;m a software engineer with expertise in creating outstanding
         digital experiences. My current focus is on developing products that are
         accessible and centered around user needs.
         {/* <Link href="https://rapidops.com" target="_blank" className="link">
